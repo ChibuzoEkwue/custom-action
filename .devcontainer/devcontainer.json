@@ -1,0 +1,10 @@
+{
+  "name": "My Dev Container",
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "features": {},
+  "extensions": [
+    "esbenp.prettier-vscode",
+    "dbaeumer.vscode-eslint",
+    "ms-vscode.vscode-typescript-next"
+  ]
+}
